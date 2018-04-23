@@ -1,0 +1,25 @@
+{
+  "name": "reactnewspaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stahlwalker/reactNewspaper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stahlwalker/reactNewspaper/issues"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^5.0.11"
+  },
+  "homepage": "https://github.com/Stahlwalker/reactNewspaper#readme"
+}
